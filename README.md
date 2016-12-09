@@ -1,2 +1,2 @@
 # interview_problems
-some interview programming problems
+some classical interview programming problems
